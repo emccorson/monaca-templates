@@ -1,48 +1,48 @@
 [submodule "onsenui-v2-js-minimum"]
-	path = onsenui-v2-js-minimum
+	path = js/onsenui-v2-js-minimum
 	url = git@github.com:monaca-templates/onsenui-v2-js-minimum
 [submodule "onsenui-v2-js-tabbar"]
-	path = onsenui-v2-js-tabbar
+	path = js/onsenui-v2-js-tabbar
 	url = git@github.com:monaca-templates/onsenui-v2-js-tabbar
 [submodule "onsenui-v2-js-navigation"]
-	path = onsenui-v2-js-navigation
+	path = js/onsenui-v2-js-navigation
 	url = git@github.com:monaca-templates/onsenui-v2-js-navigation
 [submodule "onsenui-v2-js-splitter"]
-	path = onsenui-v2-js-splitter
+	path = js/onsenui-v2-js-splitter
 	url = git@github.com:monaca-templates/onsenui-v2-js-splitter
 [submodule "onsenui-v2-react-minimum"]
-	path = onsenui-v2-react-minimum
+	path = react/onsenui-v2-react-minimum
 	url = git@github.com:monaca-templates/onsenui-v2-react-minimum
 [submodule "onsenui-v2-react-tabbar"]
-	path = onsenui-v2-react-tabbar
+	path = react/onsenui-v2-react-tabbar
 	url = git@github.com:monaca-templates/onsenui-v2-react-tabbar
 [submodule "onsenui-v2-react-splitter"]
-	path = onsenui-v2-react-splitter
+	path = react/onsenui-v2-react-splitter
 	url = git@github.com:monaca-templates/onsenui-v2-react-splitter
 [submodule "onsenui-v2-react-navigation"]
-	path = onsenui-v2-react-navigation
+	path = react/onsenui-v2-react-navigation
 	url = git@github.com:monaca-templates/onsenui-v2-react-navigation
 [submodule "onsenui-v2-angular2-splitter"]
-	path = onsenui-v2-angular2-splitter
+	path = angular2/onsenui-v2-angular2-splitter
 	url = git@github.com:monaca-templates/onsenui-v2-angular2-splitter
 [submodule "onsenui-v2-angular2-navigation"]
-	path = onsenui-v2-angular2-navigation
+	path = angular2/onsenui-v2-angular2-navigation
 	url = git@github.com:monaca-templates/onsenui-v2-angular2-navigation
 [submodule "onsenui-v2-angular2-tabbar"]
-	path = onsenui-v2-angular2-tabbar
+	path = angular2/onsenui-v2-angular2-tabbar
 	url = git@github.com:monaca-templates/onsenui-v2-angular2-tabbar
 [submodule "onsenui-v2-angular2-minimum"]
-	path = onsenui-v2-angular2-minimum
+	path = angular2/onsenui-v2-angular2-minimum
 	url = git@github.com:monaca-templates/onsenui-v2-angular2-minimum
 [submodule "onsenui-v2-vue-navigation"]
-	path = onsenui-v2-vue-navigation
+	path = vue/onsenui-v2-vue-navigation
 	url = git@github.com:monaca-templates/onsenui-v2-vue-navigation
 [submodule "onsenui-v2-vue-tabbar"]
-	path = onsenui-v2-vue-tabbar
+	path = vue/onsenui-v2-vue-tabbar
 	url = git@github.com:monaca-templates/onsenui-v2-vue-tabbar
 [submodule "onsenui-v2-vue-splitter"]
-	path = onsenui-v2-vue-splitter
+	path = vue/onsenui-v2-vue-splitter
 	url = git@github.com:monaca-templates/onsenui-v2-vue-splitter
 [submodule "onsenui-v2-vue-minimum"]
-	path = onsenui-v2-vue-minimum
+	path = vue/onsenui-v2-vue-minimum
 	url = git@github.com:monaca-templates/onsenui-v2-vue-minimum
